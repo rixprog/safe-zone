@@ -1,0 +1,7 @@
+--Project Title: SafeZone
+--Project Description: "This is web app for public safety and emergency response"
+--Project Idea: "Our project is a community-powered travel safety platform that combines real-time crime awareness with nearby human assistance. During signup, users provide basic details that are securely stored in the database, and with user consent, their location is continuously tracked to enable safety features. When a user feels unsafe and requests help, the system automatically identifies the nearest suitable users (based on location and availability) and sends them an alert. If a nearby user accepts the request, both parties receive each other’s live location so they can meet safely, and the requester is notified that help is on the way. In addition to this human support network, the web app also visualizes crime density around the user, highlighting the types of crimes with the highest occurrence in their surrounding area and providing proactive alerts when the user enters higher-risk zones, helping users make safer travel decisions before danger occurs."
+--Frontend: React+jsx+tailwindcss+openstreetmap
+--Backend: Fast Api
+--database: sqllite
+--Key requiremnets: The web should ask permission for user location , 
